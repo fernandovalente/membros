@@ -494,17 +494,17 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease-in-out;
   font-size: 36px;
   line-height: 1;
-  color: #41c221;
+  color: #d3dd3f;
 }
 
-#hero .icon-box .icon .bi-chat-square-text-fill {
+#hero .icon-box .icon .bi-shield-fill-check {
   margin-bottom: 20px;
   padding-top: 10px;
   display: inline-block;
   transition: all 0.3s ease-in-out;
   font-size: 36px;
   line-height: 1;
-  color: #d3dd3f;
+  color: #41c221;
 }
 
 #hero .icon-box:hover {
